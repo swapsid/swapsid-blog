@@ -27,7 +27,10 @@
   article {
     p {
       @apply my-4 leading-relaxed;
+      text-align: justify;
+      text-justify: inter-word;
     }
+    
     h1 {
       @apply my-4 text-xl font-medium dark:text-white;
     }
