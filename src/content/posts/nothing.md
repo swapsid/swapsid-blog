@@ -6,10 +6,11 @@ date: "Jul 10 2024"
 
 
 Before _something_ appeared, I was there, and after everything disappears, I will still be here. All of the creation begins with me. So does it ends with me. And yet, strange as it is, nobody ever talks about me! It bothers me a lot, because most people chatter about _something_, always ignoring me! Neglecting the fact that I sustain _something_ and all his fellow-thing-friends. All these _somethings_ would never happen if it were not for me. I guess only the wisest ones were sure of me. They knew _nothing_ mattered more than everything else. So, here goes the story of me—the story of **nothing**.
-
+<br>
+<br>
 ![Nothing speaking](/static/nothing-speaks.jpg)
-
-
+<br>
+<br>
 You wouldn’t generally talk about me, because you would probably know _nothing_ about me. And also since there’s _nothing_ to talk about, almost impossible to define. Only _nothing_ defines me. A negation, not anything, no single thing, _nothing_ at all - my distant relatives. Now I know, it's strange to read _something_ about me, _nothing_—a thing which everybody probably hates to do. Nobody likes to sit down and do _nothing_. All the time you want to do _something_, talk about _something_, read _something_, find _something_, and be _something_. But, you should know that I, _nothing_, matter more than _something_.
 
 Grab a cup if you can. A cup which you use to drink tea or milk. If you don't have one now, imagine. Now, what are you looking at? Its shape, color, and materials or if you look long enough you will end up appreciating the design patterns it has, if it has any. But you will miss the obvious thing in it that makes it useful for what it is. A cup is useful not for what you can see. It is useful for what you cannot see — all that empty space, the _nothing_-ness inside it. Without me, it is just a blob of stone. That strange element of _nothing_-ness in it allows you to use it to its fullness and drink whatever you like drinking. I know this analogy sounds strange, but you see, it applies to _everything_.
