@@ -10,6 +10,11 @@ Coming to writing, every mind has a different appeal. Every age has its genre, c
 
 An exchange of stories, that’s what life has all been about ever since we learned to speak them. They are everywhere and in every walking notion of life, people sitting down together for a cup of tea, lovers walking out on dates, the faithful going to the masses, the generation glued to the screen. Everyone catching up with a story or making a new one to share. All busy filling the pages of life worried that they might run out of ink or stories. But we’ll never do. Because, the first story ever told was a spell, a spell that will never die. And all these words here are now the curse of that spell. A curse or magic enchantment, we will have to discover. Perhaps, this is the beginning of another new story, like every other, trying to connect to the very first one.
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 > Note: This was written as an exercise
