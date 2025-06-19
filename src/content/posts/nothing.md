@@ -7,7 +7,8 @@ date: "Jul 10 2024"
 
 Before something appeared, I was there, and after everything disappears, I will still be here. All of the creation begins with me. So does it ends with me. And yet, strange as it is, nobody ever talks about me! It bothers me a lot, because most people chatter about something, always ignoring me! Neglecting the fact that I sustain something and all his fellow-thing-friends. All these somethings would never happen if it were not for me. I guess only the wisest ones were sure of me. They knew nothing mattered more than everything else. So, here goes the story of me—the story of nothing.
 
-<img src="/static/nothing-speaks.jpg" alt="This is Nothing speaking." box-shadow: 2px 2px 8px #888; display: block; margin-left: auto; margin-right: auto;">
+![Nothing speaking](/static/nothing-speaks.jpg)
+
 
 You wouldn’t generally talk about me, because you would probably know nothing about me. And also since there’s nothing to talk about, almost impossible to define. Only nothing defines me. A negation, not anything, no single thing, nothing at all - my distant relatives. Now I know, it's strange to read something about me, nothing—a thing which everybody probably hates to do. Nobody likes to sit down and do nothing. All the time you want to do something, talk about something, read something, find something, and be something. But, you should know that I, nothing, matter more than something.
 
