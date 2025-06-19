@@ -1,5 +1,5 @@
 ---
-title: "Story"
+title: "On Story"
 description: "A freewriting on stories"
 date: "Jun 25 2024"
 ---
