@@ -13,6 +13,10 @@ Grab a cup if you can. A cup which you use to drink tea or milk. If you don't ha
 
 All this life that you are made up of, all these somethings, is happening somewhere, right? You are made up of matter, then molecules, then atoms, then subatomic particles, and then waves, that somehow appear out of nothing, and vanish into nothing. Wipe out the entire universe, you will get me. Pick an atom, almost a hundred percent of it.
 
+<br>
+<br>
+<br>
+<br>
 
 
 > Note: This was written as an exercise on freewriting for a creative writing course hosted by [Maria Hoey](https://www.linkedin.com/in/maria-hoey-58540a75/?originalSubdomain=ie). Inspired by an old post long time ago, [Nothing Matters](https://zphilosopher.blogspot.com/2017/09/nothing-matters.html).
