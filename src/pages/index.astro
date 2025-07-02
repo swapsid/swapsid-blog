@@ -1,8 +1,3 @@
----
-import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
-import Layout from "../layouts/Layout.astro";
----
-
 <Layout
   title={SITE_TITLE}
   description={SITE_DESCRIPTION}
@@ -10,8 +5,28 @@ import Layout from "../layouts/Layout.astro";
 >
   <main class="space-y-4">
     <p>
-     Hey there! I’m Swapnil Siddharth. <br>
+      Hey there! I’m Swapnil Siddharth. <br>
       This blog is still a work in progress, but I’m glad you’re here!
     </p>
+    <div class="flex space-x-4">
+      {/* LinkedIn */}
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+        <svg width="24" height="24" fill="currentColor" aria-hidden="true">
+          <path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11 19h-3v-9h3v9zm-1.5-10.28c-.97 0-1.75-.79-1.75-1.75s.78-1.75 1.75-1.75 1.75.79 1.75 1.75-.78 1.75-1.75 1.75zm13.5 10.28h-3v-4.5c0-1.08-.02-2.47-1.5-2.47-1.5 0-1.73 1.17-1.73 2.39v4.58h-3v-9h2.89v1.23h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.59v5.74z"/>
+        </svg>
+      </a>
+      {/* Goodreads */}
+      <a href="https://www.goodreads.com/user/show/YOUR_GOODREADS_USERID" target="_blank" rel="noopener noreferrer" aria-label="Goodreads">
+        <svg width="24" height="24" fill="currentColor" aria-hidden="true">
+          <path d="M12 0C5.373 0 0 5.373 0 12c0 6.627 5.373 12 12 12s12-5.373 12-12c0-6.627-5.373-12-12-12zm0 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10zm1.5-6.5c0 .828-.672 1.5-1.5 1.5s-1.5-.672-1.5-1.5.672-1.5 1.5-1.5 1.5.672 1.5 1.5zm-1.5-12C7.589 3.5 4.5 6.589 4.5 10.5c0 2.485 1.789 4.5 4 4.5s4-2.015 4-4.5c0-3.911-3.089-7-6.5-7zm0 2c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4zm7.5 12.5c0 .828-.672 1.5-1.5 1.5s-1.5-.672-1.5-1.5.672-1.5 1.5-1.5 1.5.672 1.5 1.5z"/>
+        </svg>
+      </a>
+      {/* Instagram */}
+      <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+        <svg width="24" height="24" fill="currentColor" aria-hidden="true">
+          <path d="M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.334 3.608 1.31.974.976 1.247 2.243 1.31 3.608.058 1.267.069 1.647.069 4.849s-.012 3.584-.07 4.85c-.062 1.366-.334 2.633-1.31 3.608-.976.974-2.243 1.247-3.608 1.31-1.267.058-1.647.069-4.85.069s-3.584-.012-4.85-.07c-1.366-.062-2.633-.334-3.608-1.31-.974-.976-1.247-2.243-1.31-3.608C2.175 15.646 2.163 15.266 2.163 12s.012-3.584.07-4.85c.062-1.366.334-2.633 1.31-3.608C4.517 2.497 5.784 2.225 7.15 2.163 8.416 2.105 8.796 2.163 12 2.163zm0-2.163C8.741 0 8.332.015 7.052.072 5.775.129 4.602.401 3.678 1.325c-.924.924-1.196 2.097-1.253 3.374C2.015 5.668 2 6.077 2 9.336v5.328c0 3.259.015 3.668.072 4.948.057 1.277.329 2.45 1.253 3.374.924.924 2.097 1.196 3.374 1.253 1.28.057 1.689.072 4.948.072s3.668-.015 4.948-.072c1.277-.057 2.45-.329 3.374-1.253.924-.924 1.196-2.097 1.253-3.374.057-1.28.072-1.689.072-4.948s-.015-3.668-.072-4.948c-.057-1.277-.329-2.45-1.253-3.374-.924-.924-2.097-1.196-3.374-1.253C15.668.015 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a3.999 3.999 0 1 1 0-7.998 3.999 3.999 0 0 1 0 7.998zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z"/>
+        </svg>
+      </a>
+    </div>
   </main>
 </Layout>
