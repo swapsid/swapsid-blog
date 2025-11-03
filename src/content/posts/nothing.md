@@ -4,6 +4,7 @@ description: "A rant by Nothing. Read it, or don’t. Nothing minds."
 date: "Jul 10 2024"
 ---
 
+> Note: This was written as an exercise on freewriting for a creative writing course hosted by [Maria Hoey](https://www.linkedin.com/in/maria-hoey-58540a75/?originalSubdomain=ie), inspired by an old post long time ago, [Nothing Matters](https://zphilosopher.blogspot.com/2017/09/nothing-matters.html). Nothing is the subject doing the talk.
 
 Before _something_ appeared, I was there, and after everything disappears, I will still be here. All of the creation begins with me. So does it ends with me. And yet, strange as it is, nobody ever talks about me! It bothers me a lot, because most people chatter about _something_, always ignoring me! Neglecting the fact that I sustain _something_ and all his fellow-thing-friends. All these _somethings_ would never happen if it were not for me. I guess only the wisest ones were sure of me. They knew _nothing_ mattered more than everything else. So, here goes the story of me—the story of **nothing**.
 <br>
@@ -31,4 +32,3 @@ Sometimes, when you have had too much of _something_, overwhelmed with everythin
 <br>
 
 
-> Note: This was written as an exercise on freewriting for a creative writing course hosted by [Maria Hoey](https://www.linkedin.com/in/maria-hoey-58540a75/?originalSubdomain=ie), inspired by an old post long time ago, [Nothing Matters](https://zphilosopher.blogspot.com/2017/09/nothing-matters.html).
